@@ -6,6 +6,7 @@ interface Video {
   thumbnail: string
 }
 
+// TODO turn this into api calls
 const videos: Video[] = [
   {
     id: "zTjdAzHRAqA",

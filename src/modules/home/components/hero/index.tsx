@@ -1,6 +1,7 @@
 import YouTubeShortsCarousel from "../shorts-carousel"
 import YouTubeVideoGrid from "../youtube-grid"
 
+// TODO turn this into api calls
 const shorts = ["9F77rLr0aqU", "uveg2OAxmBk"]
 
 const Hero = () => {
